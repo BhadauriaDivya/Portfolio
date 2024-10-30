@@ -4,7 +4,6 @@ import { useState } from 'react'
 import './App.css'
 import { Route, Routes } from 'react-router-dom'
 import About from './component/About'
-
 import './component/Style.css'
 import Home from './component/Home'
 
